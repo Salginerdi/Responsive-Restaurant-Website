@@ -1,2 +1,2 @@
-# ResponsiveWebsite_with_Bootstrap5
-Responsive Restaurant Website Design with Bootstrap5
+# Restaurant Website
+A responsive restaurant website that I made using only HTML and Bootstrap.
